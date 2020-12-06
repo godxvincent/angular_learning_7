@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## What I learnt.
+
+1. ¿Qué es Auth0 y la documentación basada en Angular?
+2. Autenticación con Facebook, Twitter, Google, entre otros...
+3. Creación de un formulario de captura para la creación de usuarios.
+4. Personalización de la caja de login.
+5. Uso de servicios para bloquear rutas que no son válidas si el usuario no esta autenticado.
+6. Obtener la información del perfil del usuario ingresado.
+7. Entre otras cosas útiles para nuestras aplicaciones.
+
+
+
+
+
+**This project was created by godxvincent.**
+
+![Godxvincent](DFFOO_Vincent_Valentine.png)
